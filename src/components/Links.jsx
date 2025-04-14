@@ -4,7 +4,7 @@ console.log(LinkData);
 
 function Links() {
   return (
-    <main className="w-full  p-2 pb-50 ">
+    <main className="w-full  p-2 pb-60 ">
       <div className="to-blue-700 flex flex-col items-center gap-2">
         {LinkData.map((link) => (
           <a
