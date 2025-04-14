@@ -17,18 +17,18 @@ const LinkData = [
   //   linkName: "Spotify Playlist",
   //   linkIcon:"fa-spotify"
   // },
-  {
-    id: 4,
-    link: "https://www.youtube.com/@HarmoniXI",
-    linkName: "HarmoniXI",
-    linkIcon: "fa-youtube",
-  },
   // {
-  //   id: 5,
-  //   link: "https://www.youtube.com/@CavelRecords",
-  //   linkName: "Cavel Records",
-  //   linkIcon:"fa-youtube"
+  //   id: 4,
+  //   link: "https://www.youtube.com/@HarmoniXI",
+  //   linkName: "HarmoniXI",
+  //   linkIcon: "fa-youtube",
   // },
+  {
+    id: 5,
+    link: "https://www.youtube.com/@CavelRecords",
+    linkName: "Cavel Records",
+    linkIcon:"fa-youtube"
+  },
   // {
   //   id: 6,
   //   link: "https://www.youtube.com/@MelodiXI",
